@@ -1,5 +1,15 @@
+streamlit
 pandas
 numpy
-streamlit
 plotly
+scikit-learn
 openpyxl
+datetime
+xlsxwriter
+python-dateutil
+matplotlib
+seaborn
+statsmodels
+requests
+beautifulsoup4
+lxml
